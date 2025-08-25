@@ -1,6 +1,8 @@
-# ARLO: Audio-visual Reinforcement Learning Optimizer
-
 <div align="center">
+
+<img src="karpathz.png" alt="ARLO Logo" width="200" />
+
+# ARLO: Audio-visual Reinforcement Learning Optimizer
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15.x-black?style=for-the-badge&logo=nextdotjs)
