@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="karpathz.png" alt="ARLO Logo" width="200" />
+<img src="karpathz.png" alt="ARLO Logo" width="800" />
 
 # ARLO: Audio-visual Reinforcement Learning Optimizer
 
